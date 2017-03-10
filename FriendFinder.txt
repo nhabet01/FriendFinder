@@ -1,0 +1,5 @@
+FriendFinder
+Help file:
+- get rid of github repo on html pages
+- improve/change html look if time permits
+-https://www.amazon.com/Zone-Tech-Three-Pocket-Storage/dp/B00IIVUXLO/ref=sr_1_8?s=automotive&ie=UTF8&qid=1488483587&sr=1-8&keywords=cargo+net

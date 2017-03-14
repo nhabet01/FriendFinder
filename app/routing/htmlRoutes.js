@@ -8,7 +8,11 @@ module.exports = function(app){
     });
     //no specific url given here b/c we want user to be directed home in any non predefined situation
     app.use(function(req,res){
-        res.sendFile(path.join(__dirname + "/../public/home.html"))
+        res.sendFile(path.join(__dirname, "/../public/home.html"))
     });
 
-}
+    // app.get("/home", function(req,res){
+    //     res.sendFile(path.join(__dirname + "/../public/home.html"));
+    // });
+
+};

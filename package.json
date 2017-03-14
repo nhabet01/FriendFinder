@@ -1,0 +1,30 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "nodejs express app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhabet01/FriendFinder.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "nahir habet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhabet01/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/nhabet01/FriendFinder#readme"
+}
